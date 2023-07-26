@@ -5,6 +5,7 @@ body {
   background-color: #283149;
 }
 h1 {
+  display:flex;
   font-size: 5rem;
   color: #DBEDF3;
   font-family: "Arvo", cursive;
@@ -13,11 +14,13 @@ h1 {
 }
 
 footer {
+  display:flex;
   color: #DBEDF3;
   font-family: sans-serif;
 }
 
 .w {
+/*      display:flex; */
      background-image: url("images/tom1.png");
 }
 
@@ -64,6 +67,7 @@ background-image: url("images/tom4.png");
 }
 
 .drum {
+  display:flex;
   outline: none;
   border: 10px solid #111111;
   font-size: 5rem;
