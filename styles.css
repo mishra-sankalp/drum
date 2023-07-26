@@ -1,11 +1,9 @@
 body {
-  display:flex;
   background-image: url("drum2.png");
   text-align: center;
   background-color: #283149;
 }
 h1 {
-  display:flex;
   font-size: 5rem;
   color: #DBEDF3;
   font-family: "Arvo", cursive;
@@ -14,7 +12,6 @@ h1 {
 }
 
 footer {
-  display:flex;
   color: #DBEDF3;
   font-family: sans-serif;
 }
