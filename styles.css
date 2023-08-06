@@ -4,6 +4,7 @@
 
 body {
   margin:0;
+  padding:0;
   height:90vh;
   text-align: center;
   background:linear-gradient(to top,#283149,rgb(187, 11, 11));
