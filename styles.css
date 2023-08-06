@@ -1,7 +1,11 @@
+::-webkit-scrollbar{
+  display:none;
+}
+
 body {
-  background-image: url("drum2.png");
+  height:90vh;
   text-align: center;
-  background-color: #283149;
+  background:linear-gradient(to top,#283149,rgb(187, 11, 11));
 }
 h1 {
   font-size: 5rem;
@@ -16,12 +20,12 @@ footer {
   font-family: sans-serif;
 }
 
-.w {
+.m {
 /*      display:flex; */
      background-image: url("images/tom1.png");
 }
 
-.a {
+.u {
 background-image: url("images/tom2.png");
 }
 
@@ -29,15 +33,15 @@ background-image: url("images/tom2.png");
 background-image: url("images/tom3.png");
 }
 
-.d {
+.i {
 background-image: url("images/tom4.png");
 }
 
-.j {
+.c {
   background-image: url("images/snare.png");
 }
 
-.k {
+.a {
   background-image: url("images/crash.png");
 }
 
