@@ -3,11 +3,13 @@
 }
 
 body {
+  margin:0;
   height:90vh;
   text-align: center;
   background:linear-gradient(to top,#283149,rgb(187, 11, 11));
 }
 h1 {
+  margin-top:1rem;
   font-size: 5rem;
   color: #DBEDF3;
   font-family: "Arvo", cursive;
@@ -15,10 +17,10 @@ h1 {
 
 }
 
-footer {
+/* footer {
   color: #DBEDF3;
   font-family: sans-serif;
-}
+} */
 
 .m {
 /*      display:flex; */
@@ -70,7 +72,7 @@ background-image: url("images/tom4.png");
 .drum {
   display:flex;
   outline: none;
-  border: 10px solid #111111;
+  border: 4px solid #111111;
   font-size: 5rem;
   font-family: 'Arvo', cursive;
   line-height: 2;
